@@ -4,7 +4,7 @@
 #}
 
 resource "aws_instance" "zertozca" {
-  ami                    = "ami-049a9302e4495ceca"
+  ami                    = "ami-019ed5bd95c9fb4c1"
   instance_type          = "m5.xlarge"
   key_name               = "str - enter keypair here"
   subnet_id              = "str - enter subnet id here"
