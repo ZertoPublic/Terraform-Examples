@@ -1,5 +1,5 @@
 # Terraform-Examples
-Basic Terraform config skeletons that can be used for ZVM/ZCA and example VM deployments
+Terraform configuration examples that can deploy Zerto ZCA / ZVM virtual machine and perform silent installation. 
 
 # Legal Disclaimer
 These examples are not supported under any Zerto support program or service. The author and Zerto further disclaim all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose.
