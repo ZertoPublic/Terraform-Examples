@@ -1,3 +1,8 @@
+/*
+This module deploys a Zerto ZVM VM in vSphere. The module requires the variables.tf to be configured with the appropriate vCenter resources and credentials.
+The main.tf file also requires vCenter resources to be defined to appropriately deploy the vSphere virtual machine. 
+*/
+    
 provider "vsphere" {
   user                 = var.vsphere_user
   password             = var.vsphere_password
